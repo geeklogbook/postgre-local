@@ -1,4 +1,3 @@
--- Crear tabla Calendario
 CREATE TABLE IF NOT EXISTS Calendario (
     IdFecha INTEGER PRIMARY KEY,
     fecha DATE NOT NULL,
